@@ -20,7 +20,7 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş klasik bir 2D Sn
 
 ---
 
-## Nasıl Çalıştırılır
+## Kullanım
 
 1. Bu repository'yi yerel makinenize klonlayın:
 ```bash
