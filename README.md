@@ -33,3 +33,4 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak geliştirilmiş klasik bir 2D Sn
 3. `index.html` dosyasını tarayıcınızda açın.
 
 ---
+Bu README dosyası Derya ACAR tarafından hazırlanmıştır.
